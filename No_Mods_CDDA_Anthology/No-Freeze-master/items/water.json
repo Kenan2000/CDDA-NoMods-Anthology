@@ -4,20 +4,20 @@
     "copy-from": "water_clean",
     "type": "COMESTIBLE",
     "name": { "str": "clean water" },
-    "freezing_point": -1000
+    "freezing_point": -490
   },
   {
     "id": "water_mineral",
     "copy-from": "water_mineral",
     "type": "COMESTIBLE",
     "name": { "str": "mineral water" },
-    "freezing_point": -1000
+    "freezing_point": -490
   },
   {
     "id": "water",
     "copy-from": "water",
     "type": "COMESTIBLE",
     "name": { "str": "water" },
-    "freezing_point": -1000
+    "freezing_point": -490
   }
 ]
